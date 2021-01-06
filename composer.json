@@ -1,5 +1,5 @@
 {
-    "name": "shopsys/ordered-form",
+    "name": "matteocacciola/ordered-form",
     "description": "Provides a form ordering support with the Symfony Form component.",
     "keywords": [ "symfony", "form", "order" ],
     "license": "MIT",
@@ -7,11 +7,15 @@
         {
             "name": "Eric GELOEN",
             "email": "geloen.eric@gmail.com"
+        },
+        {
+            "name": "Matteo CACCIOLA",
+            "email": "matteo.cacciola@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.2",
-        "symfony/form": "^3.0|^4.0"
+        "php": "^7.4",
+        "symfony/form": "^5"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.0",

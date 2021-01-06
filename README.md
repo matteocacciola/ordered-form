@@ -1,10 +1,5 @@
 # README
 
-[![Travis Build Status](https://secure.travis-ci.org/shopsys/ordered-form.png?branch=master)](http://travis-ci.org/shopsys/ordered-form)
-[![Latest Stable Version](https://poser.pugx.org/shopsys/ordered-form/v/stable.svg)](https://packagist.org/packages/shopsys/ordered-form)
-[![Total Downloads](https://poser.pugx.org/shopsys/ordered-form/downloads.svg)](https://packagist.org/packages/shopsys/ordered-form)
-[![License](https://poser.pugx.org/shopsys/ordered-form/license.svg)](https://packagist.org/packages/shopsys/ordered-form)
-
 The library allows to order your Symfony Form fields by adding the position option. A position can either be first,
 last or an associative array describing before and/or after field.
 
